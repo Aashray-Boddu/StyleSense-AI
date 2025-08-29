@@ -1,6 +1,6 @@
-**StyleSense AI – ML-Powered Recommendation System**👗🧠
+**StyleSense AI – Content-Based Recommendation System**👗🧠
 ---
-**StyleSense AI** is a Flask-based web application that uses machine learning to recommend fashion products (Clothing, Shoes, Jewelry) based on user search, categories, brands, and product similarity. Built using real-world Amazon fashion product metadata, the system aims to bring smart, intuitive e-commerce recommendations using data science.
+**StyleSense AI** is a Flask-based web application that uses Content-Based Filtering to recommend fashion products (Clothing, Shoes, Jewelry) based on user search, categories, brands, and product similarity. Built using real-world Amazon fashion product metadata, the system aims to bring smart, intuitive e-commerce recommendations using data science.
 
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/21305e9d-baf4-4d8e-9f93-2d01b9a43b0c" />
 
@@ -9,7 +9,7 @@
 ## 🚀 Features
 
 - 🔍 Product Search with intelligent keyword matching  
-- 🧠 ML-powered product similarity using TF-IDF and cosine similarity  
+- 🧠 Content-Based Filtering-powered product similarity using TF-IDF and cosine similarity  
 - 🏷️ Filter by brand, category  
 - 📊 Dataset statistics (total products, average rating, etc.)  
 - 📷 Product image rendering with dynamic HTML display  
